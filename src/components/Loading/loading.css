@@ -1,0 +1,10 @@
+.Loader__container:first-child {
+    margin-top: 35px;
+}
+
+.Loader__container {
+    display: block;
+    margin-top: 500px;
+    margin-left: 45%;
+    margin-right: -45%;
+}

@@ -1,0 +1,22 @@
+.Main-create__container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px #75757570;
+    background-color: #fff;
+}
+
+.button {
+    padding: 5px 15px;
+    border: 1px solid #4469ae;
+    border-radius: 5px;
+    background-color: #4469ae;
+    color: #fff;
+}
+
+.button:hover {
+    opacity: .8;
+    color: #fff;
+    cursor: pointer;
+}

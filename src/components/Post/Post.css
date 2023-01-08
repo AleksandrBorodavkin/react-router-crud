@@ -1,0 +1,41 @@
+.Post {
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px #75757570;
+    background-color: #fff;
+}
+
+.Post__header {
+    display: flex;
+}
+
+.Post-creator__img {
+    width: 35px;
+    height: 35px;
+    background-color: #989a9c;
+    border-radius: 50%;
+}
+
+.Post__about {
+    margin-left: 8px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.Post-creator__name {
+    color: #4469ae;
+}
+
+.Post-creator__info {
+    color: #757575;
+}
+
+.Post__time {
+    margin-left: 15px;
+}
+
+.Post__text {
+    margin-top: 20px;
+    font-size: 16px;
+}

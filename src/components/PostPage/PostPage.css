@@ -1,0 +1,32 @@
+.PostPage__control {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.PostPage__button_delete {
+    border: 1px solid #b04546;
+    margin-left: 20px;
+    background-color: #b04546;
+}
+
+.PostPage__edit {
+    display: flex;
+    flex-flow: column;
+}
+
+.button:hover {
+    opacity: .8;
+    color: #fff;
+    cursor: pointer;
+
+
+}
+
+.button {
+    padding: 5px 15px;
+    border: 1px solid #4469ae;
+    border-radius: 5px;
+    background-color: #4469ae;
+    color: #fff;
+}
